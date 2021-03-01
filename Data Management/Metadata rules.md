@@ -30,7 +30,7 @@ To create a new metadata rule, complete the following:
 
 11. After entering all metadata type entries, click **Next**.
 12. In the **Define Mappings** page, select **Copy Values** under **Mapping Type** to display the raw stream data for the specified metadata key, or select **Map Values** and click **Generate Mappings**.
-13. If you selected **Copy Values**, omit this step.  If you selected **Map Values**, type into the **Map To...** entry field the label you wish to display for each defined metadata key, and then click **Add Mapping.** and click **Next**.
+13. If you selected **Copy Values**, omit this step.  If you selected **Map Values**, type into the **Map To...** entry field the label you wish to display for each defined metadata key, and click **Next**.
 14. 
 15.  
 16.
