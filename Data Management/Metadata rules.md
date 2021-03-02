@@ -1,5 +1,5 @@
 ---
-uid: Dataviews
+uid: Metadatarules
 ---
 
 # Metadata rules
