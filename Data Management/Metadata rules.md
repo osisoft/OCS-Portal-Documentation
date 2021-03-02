@@ -37,4 +37,5 @@ To create a new metadata rule, complete the following:
 13. If you selected **Copy Values**, omit this step.  If you selected **Map Values**, type into the **Map To...** entry field the label you wish to display for each defined metadata key for each matching stream, and click **Next**.
 14. Click **Add Mapping** to define mapping for any other stream name part (optional).
 15. Click **Next**. All matching streams for the rule are displayed.
-16. Type a name and description
+16. Enter the metadata rule **Name** and **Description** in the **Preview and Run** page.
+17. Click **Save & Execute**.
