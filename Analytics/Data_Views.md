@@ -1,3 +1,7 @@
+---
+uid: Dataviews
+---
+
 # Data views
 
 The OCS Portal provides the ability to create and configure data views in a graphical user interface. You create a data view by defining the target namespace, the source stream or streams, the desired data fields, time period, and interpolation interval. 
