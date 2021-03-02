@@ -1,3 +1,7 @@
+---
+uid: Dataviews
+---
+
 # Metadata rules
 
 You select a stream name to use as a name pattern and assign metadata to selected stream name parts, such as a plant location or device category. The resulting stream name pattern with assigned metadata parts defines a metadata rule. The metadata rule assigns the defined metadata to all streams in a given namespace that match the stream name pattern.  
@@ -30,7 +34,7 @@ To create a new metadata rule, complete the following:
 
 11. After entering all metadata type entries, click **Next**.
 12. In the **Define Mappings** page, select **Copy Values** under **Mapping Type** to display the raw stream data for the specified metadata key, or select **Map Values** and click **Generate Mappings**.
-13. If you selected **Copy Values**, omit this step.  If you selected **Map Values**, type into the **Map To...** entry field the label you wish to display for each defined metadata key, and click **Next**.
-14. 
-15.  
-16.
+13. If you selected **Copy Values**, omit this step.  If you selected **Map Values**, type into the **Map To...** entry field the label you wish to display for each defined metadata key for each matching stream, and click **Next**.
+14. Click **Add Mapping** to define mapping for any other stream name part (optional).
+15. Click **Next**. All matching streams for the rule are displayed.
+16. Type a name and description
