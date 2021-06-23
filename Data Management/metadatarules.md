@@ -22,4 +22,4 @@ For example, you might define a location, facility, asset class, or asset Id as 
 
 The value of metadata itself lies in its capacity to enrich sequential data, and to facilitate logical segregation and contextualization of data. Metadata rules enable the bulk creation and maintenance of stream metadata, which can then be used across OSIsoft Cloud Services. Other services and applications, such as OCS data views, leverage stream metadata to simplify finding data and to provide context about stream data.
 
-For more information, see [Add context with metadata rules](/OCS-Portal-Documentation/Data Management/addcontextwithmetadatarules).
+For more information, see [Add context with metadata rules](#addcontextwithmetadatarules).
